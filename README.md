@@ -6,17 +6,6 @@ This project predicts future sales based on advertising spending across TV, Radi
 
 ---
 
-## Technologies Used
-
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Scikit-learn
-
----
-
 ## Machine Learning Model
 
 * Linear Regression
